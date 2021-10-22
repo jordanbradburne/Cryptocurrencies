@@ -4,10 +4,10 @@
 Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. The goal is to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment. The data to be worked with is not ideal, so it will need to be processed to fit the machine learning models. The way to go about this is unsupervised learning. To group the cryptocurrencies, a clustering algorithm will be used. Then, data visualizations will be used to share findings.
 
 ## Deliverables:
-Deliverable 1: Preprocessing the Data for PCA
-Deliverable 2: Reducing Data Dimensions Using PCA
-Deliverable 3: Clustering Cryptocurrencies Using K-means
-Deliverable 4: Visualizing Cryptocurrencies Results
+* Deliverable 1: Preprocessing the Data for PCA
+* Deliverable 2: Reducing Data Dimensions Using PCA
+* Deliverable 3: Clustering Cryptocurrencies Using K-means
+* Deliverable 4: Visualizing Cryptocurrencies Results
 
 ## Results:
 After the preprocessing and cleaning phase there are 532 tradable cryptocurrencies.
@@ -20,7 +20,7 @@ After the preprocessing and cleaning phase there are 532 tradable cryptocurrenci
 
 ## 3D-Scatter plot with clusters
 
-![Unknown](https://user-images.githubusercontent.com/85847344/138415178-4bf7ddb9-bec1-43cb-9a01-d479d1db7588.png)
+<img width="484" alt="Screen Shot 2021-10-22 at 1 04 24 AM" src="https://user-images.githubusercontent.com/85847344/138417231-edbe2bb9-2f10-4342-a73f-8e7910573862.png">
 
 * A 3D-Scatter plot was created with the PCA data and the clusters
 
